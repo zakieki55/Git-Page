@@ -1,0 +1,1 @@
+alert("This Page Contain Video, Audio and Photo");
